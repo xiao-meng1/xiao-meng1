@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xiao!
-- 👀 I’m a full stack software developer working with: JavaScript, Python, React, Redux, Express, NodeJS, and MongoDB.
+- 👀 I’m a full stack software developer working with: JavaScript, Python, React, Redux, NodeJS, Express, and MongoDB.
 - 🌱 Please feel free to check out some of my pinned projects to get an idea of my skills.
 
 <!---
