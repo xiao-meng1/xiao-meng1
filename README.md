@@ -1,4 +1,4 @@
-## 👋 Hi there!
+### 👋 Hi there!
 
 My name is Xiao and I’m a full stack software developer focused on web development.
 
