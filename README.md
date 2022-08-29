@@ -1,8 +1,8 @@
-# 👋 Hi there!
+## 👋 Hi there!
 
 My name is Xiao and I’m a full stack software developer focused on web development.
 
-## Languages and Technologies:
+### Languages and Technologies:
 JavaScript, Python, React, Redux, NodeJS, Express, and MongoDB.
 
 <!---
