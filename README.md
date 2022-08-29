@@ -1,7 +1,7 @@
 ### 👋 Hi there!
 
-My name is Xiao and I’m a full stack software engineer with 1 year of experience in web development.
-Feel free to check out some of my pinned projects to get a better idea of my skills!
+- My name is Xiao and I’m a full stack software engineer with 1 year of experience in web development.
+- Feel free to check out some of my pinned projects to get a better idea of my skills!
 
 ### 🔧 My Languages and Technologies:
 JavaScript, Python, React, Redux, NodeJS, Express, and MongoDB.
