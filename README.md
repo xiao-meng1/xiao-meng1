@@ -4,7 +4,7 @@ My name is Xiao and I’m a full stack software developer with 1 year of experie
 Feel free to check out some of my pinned projects to get a better idea of my skills!
 
 ### 🔧 My Languages and Technologies:
-JavaScript, Python, React, Redux, NodeJS, Express, and MongoDB.
+JavaScript, Python, React, Redux, NodeJS, Express, PostgreSQL, MongoDB, Git, and Docker.
 
 <!---
 xiao-meng1/xiao-meng1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
